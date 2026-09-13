@@ -1,0 +1,704 @@
+{
+    "semminars": [
+        {
+            "name": "SEMMINAR_1",
+            "date": "SEMMINAR_1_DATE",
+            "location": "ROOM_223",
+            "link": "https://www.fuw.edu.pl/~kmmf/sem.czw.przedp.html"
+        },
+        {
+            "name": "SEMMINAR_2",
+            "date": "SEMMINAR_2_DATE",
+            "location": "ROOM_223",
+            "link": "https://www.fuw.edu.pl/algebry-operatorow-i-grupy-kwantowe.html"
+        },
+        {
+            "name": "SEMMINAR_3",
+            "date": "SEMMINAR_3_DATE",
+            "location": "ROOM_223",
+            "link": "http://www.fuw.edu.pl/~psulkows/seminar/index.html"
+        },
+        {
+            "name": "SEMMINAR_4",
+            "date": "SEMMINAR_4_DATE",
+            "location": "ROOM_102",
+            "link": "none"
+        },
+        {
+            "name": "SEMMINAR_5",
+            "date": "SEMMINAR_5_DATE",
+            "location": "ROOM_140",
+            "link": "https://www.fuw.edu.pl/~exact/"
+        },
+        {
+            "name": "SEMMINAR_6",
+            "date": "SEMMINAR_6_DATE",
+            "location": "ROOM_223",
+            "link": "https://tcs.fuw.edu.pl/index.php/the-trans-carpathian-seminar-on-geometry-physics/"
+        },
+        {
+            "name": "SEMMINAR_7",
+            "date": "SEMMINAR_7_DATE",
+            "location": "ROOM_B017",
+            "link": "https://www.fuw.edu.pl/seminarium-nieliniowosc-i-geometria.html"
+        }
+    ],
+    "books": [
+        {
+            "categoryName": "STUDENT_BOOKS",
+            "books": [
+                "Zadania z analizy Grzegorza Cieciury: https://www.fuw.edu.pl/~kmmf/pdf/Analiza-1-R-zadania.pdf (Link nie jest klikalny, użyj kopiuj-wklej)"
+            ]
+        },
+        {
+            "categoryName": "BOOKS_CATEGORY_1",
+            "books": [
+                "J. de Lucas, C. Sardón, A Guide to Lie systems with Compatible Geometric Structures, World Scientific, Singapure, 2020, pp. 408",
+                "P.M. Sołtan, Elementy teorii operatorów na przestrzeni Hilberta (Elements of the theory of operators on Hilbert space), WUW 2018",
+                "P.M. Sołtan, A Primer on Hilbert Space Operators, Birkhauser 2018",
+                "J. Derezinski, C. Gérard, Mathematics of Quantization and Quantum Fields, Cambridge on Mathematical Physics, Cambridge University Press (2013), 684 pp.",
+                "P. Chruściel, J. Jezierski, J. Kijowski, Hamiltonian Field Theory in the Radiating Regime, volume m70 of the series: Springer Lecture Notes in Physics, Monographs (2002), 174 pp.",
+                "A. Drzewiński, J.Wojtkiewicz, Opowieści z historii fizyki, Wyd. 2.Warszawa : Wydaw. Naukowe PWN, 2001, 237 pp.",
+                "K. Maurin, The Riemann Legacy: Riemannian Ideas in Mathematics and Physics. Boston: Kluwer Academic, 1997.",
+                "P. Podleś, Introduction to Quantum Groups, Mathematisches Institut Ludwig-Maximilians-Universität München, Preprint Nr. gk-mp-9612/45",
+                "J. Dereziński, C. Gérard, Scattering theory of classical and quantum n-particle systems, Berlin : Springer, cop. 1997, 444 pp.",
+                "M. Skwarczyński, Geometria rozmaitości Riemanna z dodatkiem „Geometryczne idee Riemanna i ich rola w matematyce i fizyce” Krzysztofa Maurina. Warszawa : Wydaw. Naukowe PWN, 1993.",
+                "K. Maurin (współautor), Leksykon Matematyczny, praca zbiorowa, ed. M. Kordos et.al., Wiedza Powszechna, Warszawa 1993, 994 pages.",
+                "K. Maurin, Analiza. Cz. 1, Elementy, Wyd. 5 zm. (Biblioteka Matematyczna t. 69) [adaptował i fragmenty z wydania angielskiego przetłumaczył Tomasz Szapiro] Warszawa : Wydaw. Naukowe PWN, 1991, 490 pp.",
+                "J. Kijowski, Elasticità finita e relativistica: Introduzione ai metodi geometrici della teoria dei campi (Finite and relativistic elasticity: an introduction to geometric methods of the field theory) in italian, Quaderni della Unione Matematica Italiana (1991), 255 pp.",
+                "K. Maurin, Analiza. Cz. 2, Ogólne struktury, funkcje algebraiczne, całkowanie, analiza tensorowa, Wyd. 2 zm. (Biblioteka Matematyczna t. 70), Warszawa : Wydaw. Naukowe PWN, 1991, 640 pp.",
+                "K. Maurin, Analiza. Cz. 3, Analiza zespolona, dystrybucje, analiza harmoniczna, [z wydania angielskiego przetłumaczył Tomasz Szapiro]. (Biblioteka Matematyczna t. 71) Warszawa : Wydaw. Naukowe PWN, 1991, 419 pp.",
+                "K. Maurin,  Analysis, part I, II, III, Dordrecht : D. Reidel ; Warszawa : PWN-Polish Scientific Publ. 1980, 430 + 829 + 450 pp.",
+                "J. Kijowski, W. M. Tulczyjew, A symplectic framework for field theories, Springer Lecture Notes in Physics, vol. 107 (1979), 257 pp.",
+                "A. Wawrzyńczyk, Współczesna teoria funkcji specjalnych (przykłady i ćwiczenia przygotowane przez A. Strasburgera / examples and problems prepared by A. Strasburger), (Biblioteka Matematyczna t. 52), PWN 1978, 527 pp.",
+                "J. Komorowski, Od liczb zespolonych do tensorów, spinorów, algebr Liego i kwadryk (Rozdział X dotyczący algebr Liego napisał A. Starsburger / Chapter X about Lie algebras written by A. Strasburger), PWN 1978, 323 pp.",
+                "K. Gawędzki, J. Kijowski, Metody geometryczne w klasycznej mechanice i teorii pola (Lectures on differential geometrical methods in classical mechanics and field theory), Warsaw University Press 1977, 250 pp.",
+                "K. Maurin,  Analiza, Part I, Elementy, (Biblioteka Matematyczna t. 38), PWN 1977, 486 pp.",
+                "K. Maurin, Methods of Hilbert spaces, [transl. from the Polish by A. Alexiewicz and W. Zawadowski], (Monografie Matematyczne t. 45) 2nd ed. rev.,Warszawa : PWN Polish Scientific Publishers, 1972, 553 pp.",
+                "K. Maurin,  Analiza, Part II, Wstep do analizy globalnej (Biblioteka Matematyczna t. 41), PWN 1971, 491 pp.",
+                "K. Maurin, General Eigenfunction Expansions and Unitary Representations of Topological Groups, (Monografie Matematyczne Tom 48), Warszawa: PWN-Polish Scientific Publishers, 1968.",
+                "J. Kijowski, W. Szczyrba, Analiza Matematyczna (Lecture Notes in Mathematical Analysis), Warsaw University Press, vol. 1 (1965) 122 pages, vol. 2 (1966) 226 pp., vol. 3 (1966) 178 pp., vol. 4 (1967) 261 pp.",
+                "A. Wawrzyńczyk, Group representations and special functions, (przykłady i ćwiczenia przygotowane przez A. Strasburgera / examples and problems prepared by Aleksander Strasburger) [transl. by Bogdan Ziemian] Dordrecht: D. Reidel; Warszawa: PWN-Polish Scientific Publ., 687 pp.",
+                "K. Maurin, Metody przestrzeni Hilberta, PWN 1959, 363 pp." 
+            ]
+        },
+        {
+            "categoryName": "BOOKS_CATEGORY_2",
+            "books": [
+                "Vol. 479 (2011) Javier de Lucas and José F. Cariñena Lie systems: theory, generalisations, and applications.",
+                "Vol. 171 (1980), Jacek Komorowski, A minorization of the first positive eigenvalue of the scalar Laplacian on a compact Riemannian manifold, 57 pp.",
+                "Vol. 165 (1979), Jacek Komorowski, Nets on a Riemannian manifold and finite dimensional approximations of the Laplacian, 79 pp.",
+                "Vol. 150 (1977), Wiktor Szczyrba, On the geometric structure of the set of solutions of Einstein equations, 83 pp.",
+                "Vol. 128 (1976), Krzysztof Gawędzki, Fourier-like kernels in geometric quantization, 83 pp.",
+                "Vol. 126 (1975), Antoni Wawrzyńczyk, Reciprocity theorems in the theory of representations of groups and algebras, 60 pp.",
+                "Vol. 122 (1975), Aleksander Strasburger, Inducing spherical representations of semi-simple Lie groups, 52 pp.",
+                "Vol. 113 (1974), Paweł Urbański, Differentiable structure in a conjugate vector bundle of infinite dimension, 34 pp."
+            ]
+        },
+        {
+            "categoryName": "BOOKS_CATEGORY_3",
+            "books": [
+                "Erwin Schrödinger, Przyroda i Grecy, Nauki przyrodnicze i humanistyczne, [transl. by Kazimierz Napiórkowski], Wydawnictwo IFiS PAN, Studia z filozofii systematycznej, Warszawa 2017",
+                "Max Planck, Nowe drogi poznania fizycznego a filozofia, [transl. by Kazimierz Napiórkowski], Wydawnictwo IFiS PAN, Warszawa 2003",
+                "W. Rudin, Analiza funkcjonalna, [transl. by P. Sołtan]. PWN 2001, 440 pp.",
+                "Einstein, Albert (1879-1955). Pisma filozoficzne, wybrał, przedmową i przypisami opatrzył Stanisław Butryn, [transl. by Kazimierz Napiórkowski], Wydawnictwo IFiS PAN Warszawa 1999.",
+                "Zbiór zadań z algebry, praca zbiorowa pod red. A. I. Kostrikina, [transl. by Aleksander Strasburger]. Warszawa : Wydaw. Naukowe PWN, 1995.", 
+                "A. I. Kostrikin, J. I. Manin. Algebra liniowa i geometria [transl. by Aleksander Strasburger]. Warszawa : Wydaw. Naukowe PWN, 1993.",
+                "K. Jänich, Topologia [transl. by Dorota i Grzegorz Cieciura]. PWN 1991, 192 pp.",
+                "W. Heisenberg (1901-1976). Część i całość : rozmowy o fizyce atomu [transl. by Kazimierz Napiórkowski] słowo wstepne Carl Friedrich von Weizsäcker. Warszawa : Państowy Instytut Wydawniczy, 1987.",
+                "W. Thirring, Mechanika kwantowa wielkich układów [transl. by Kazimierz Napiórkowski]. Warszawa : Panst. Wydaw. Naukowe, 1987.",
+                "C.F. von Weizsäcker, Jedność przyrody transl. by Kazimierz Napiórkowski [et al]; słowo wstępne i wybór Krzysztof Maurin. Warszawa : Państowy Instytut Wydawniczy, 1978.",
+                "K. Maurin, Metody gil'bertova prostranstva [transl. V. È. Lânce], pod red. Û. M. Berezanskogo i E. A. Gorina, Izdatelʹstvo Mir (Moskwa)"
+            ]
+        },
+        {
+            "categoryName": "BOOKS_CATEGORY_4",
+            "books": [
+                "A. Strasburger, A. Jóźwikowska, Algebra  liniowa i geometria analityczna dla informatyków. Cz. 1, Podstawy algebry liniowej, Wydawnictwo SGGW, (2015, 2 wyd. 2017)",
+                "T. Radożycki, Rozwiazujemy zadania z analizy matematycznej. Czesc I, Wydawnictwo Oswiatowe FOSZE, Rzeszów 2010, 356 pp.",
+                "G. Cieciura et.al. Od liczb zespolonych do kwadryk. Zbiór zadan z algebry z rozwiazaniami, Warszawa 2010, 197 pp.",
+                "P. Urbański, Analiza dla studentów fizyki, cz. I, KMMF WF Uniwersytetu Warszawskiego 2003, 113 pp.",
+                "G. Cieciura, Konspekt do wykładu z Algebry „C”, Warszawa 2001, 173 pp.",
+                "K. Napiórkowski, Matematyka, NKF 2001",
+                "S. Zakrzewski, Algebra i geometria, KMMF, Warszawa 2000, 2010, 115 pp.",
+                "K. Napiórkowski, Metody Matematyczne Fizyki, NKF 1998",
+                "P. Urbański, Analiza dla studentów fizyki, cz. II, KMMF WF Uniwersytetu Warszawskiego 1998, 104 pp.",
+                "P. Urbański, Analiza dla studentów fizyki, cz. III, KMMF WF Uniwersytetu Warszawskiego 1998, 118 pp.",
+                "K. Napiórkowski, English in Calculus, NKF 1997",
+                "P. Urbański, Algebra dla studentów fizyki, KMMF WF Uniwersytetu Warszawskiego 1997, 131 pp.",
+                "W. Pusz, A. Strasburger, Zbiór zadan z analizy matematycznej do wykładu według podręcznika - Krzysztof Maurin ”Analiza”, w trzech czesciach, Warszawa : Wydz. Fizyki UW, 1982, 224 pp.",
+                "S.L. Woronowicz, Operator systems and their application to the Tomita-Takesaki theory, Aarhus Universitet, Lecture Notes No. 52, May 1979, 70 pp.",
+                "S.L. Woronowicz, Compact and noncompact quantum groups, Lecture notes written by L. Dąbrowski and P. Nurowski, SISSA 153/95/FM."
+            ]
+        },
+        {
+            "categoryName": "BOOKS_CATEGORY_6",
+            "books": [
+                "Geometry of Lagrangian Grassmannians and Nonlinear PDEs (J. Gutt, G. Manno and G. Moreno eds), Banach Center Publications 117 (2019)",
+                "Advanced School on Topological Quantum Field Theory (Faculty of Physics, University of Warsaw, December 7--9, 2015), (N. Carqueville, P. Sułkowski and R.R. Suszek eds) Banach Center Publications 114 (2018)",
+                "50th Seminar “Sophus Lie, dedicated to Professor Karl Heinrich Hofmann on the occasion of his 85th birthday (A. Fialowski, K. Grabowska, J. Grabowski and K-H. Neeb eds), Banach Center Publications 113 (2017)",
+                "Topological Quantum Groups, (U. Franz, A. Skalski, P.M. Sołtan eds) Banach Center Publications 111 (2017)",
+                "Geometry of Jets and Fields, in honour of Professor Janusz Grabowski (K. Grabowska, M. Jóźwikowski, J. de Lucas, M. Rotkiewicz eds) Banach Center Publications 110 (2016)",
+                "Algebra, Geometry and Mathematical Physics (Viktor Abramov, Jürgen Fuchs, Eugen Paal, Alexander Stolin, Aleksy Tralle and Paweł Urbański eds) Banach Center Publications vol. 93, Warszawa 2011",  
+                "Large Coulomb Systems - QED, (J. Derezinski and H. Siedentop, eds), Lecture Notes in Physics 695, Springer 2006.",
+                "Noncommutative Geometry and Quantum Groups, (P.M. Hajac and W. Pusz, eds), Banach Center Publications, vol. 61, Warszawa 2003.",
+                "Classical and Quantum Integrability, dedicated to Włodzimierz Tulczyjew, (J. Grabowski, G. Marmo and P. Urbanski, eds), Banach Center Publications, vol. 59, Warszawa 2003.",               
+                "Geometry and Analysis on Finite- and Infinite-dimensional Lie Groups, Proceedings of the Workshop on Lie Groups and Lie Algebras, (Bedlewo, September 4–15, 2000), (A. Strasburger, J. Hilgert, K.-H. Neeb, and W. Wojtynski, eds), Banach Center Publications, vol. 55, Warszawa 2002.",
+                "Coherent States, Quntization and Gravity, Proceedings of the XVIIth Workshop on Geometric Methods in Physics, (Białowieza, July 3–9, 1998), (M. Schlichenmaier, A. Strasburger, S. Twareque Ali, and A. Odzijewicz, eds), Wydawnictwa Uniwersytetu Warszawskiego, Warszawa 2001 (ISBN 83-235-0066-5).",
+                "Lie Algebroids and Related Topics in Differential Geometry, (J.Kubarski, P. Urbanski and R. Wolak, eds), Banach Center Publications, vol. 54, Warszawa 2001.",
+                "Poisson Geometry, Stanisław Zakrzewski in memoriam, (J. Grabowski and P. Urbanski eds.), Banach Center Publications, vol. 51, Warszawa 2000.",
+                "Quantization, Coherent States and Poisson STructures, Proceedings of the XIVth Workshop on Geometric Methods in Physics, (Białowieza, July 9–15, 1995), (A. Strasburger, S. Twareque Ali, J.-P. Antoine, J.-P. Gazeau, and A. Odzijewicz, eds), Polish Scientific Publishers PWN, Warsaw 1998 (ISBN 83-01-12758-9).",
+                "Quantization, Deformation and Coherent States, Proceedings of the XVth Workshop on Geometric Methods in Physics, (Białowieza, July 1–7, 1996), (A. Strasburger, S. Twareque Ali, and A. Odzijewicz eds), Reports Math. Phys., vol. 40 (1997), No 2.",
+                "Quantum Groups and Quantum States, (R. Budzynski, W. Pusz and S. Zakrzewski, eds.), Banach Center Publications, vol. 40, Warszawa 1997.",
+                "Coherent States, Differential and Quantum Geometry, Proceedings of the XVIth Workshop on Geometric Methods in Physics, (Białowieza, June 30–July 6, 1997) (M. Schlichenmaier, A. Strasburger, S. Twareque Ali, and A. Odzijewicz, eds), Reports Math. Phys., vol. 43.(1999), No 1/2."
+            ]
+        }
+    ],
+    "employees": [
+        {
+            "name": "Mistrz",
+            "showName": false,
+            "empl": [
+                {
+                    "photo": "maurin.jpg",
+                    "description": "DESC_MAURIN",
+                    "name": "prof. dr hab. Krzysztof Maurin",
+                    "site": "https://www.fuw.edu.pl/KMMF/pdf/Krzysztof%20Maurin-Wspomnienie.pdf"
+                }
+            ]
+        },
+        {
+            "name": "Kierownictwo",
+            "showName": false,
+            "empl": [
+                {
+                    "photo": "prof-dr-hab-Jacek-Jezierski.jpg",
+                    "description": "DESC_JEZIERSKI",
+                    "name": "prof. dr hab. Jacek Jezierski.",
+                    "site": "https://www.fuw.edu.pl/~jjacekj/jjmk/home.html"
+                },
+                {
+                    "photo": "ja_by_piotrek2.jpg",
+                    "description": "DESC_KASIA",
+                    "name": "dr hab. Katarzyna Grabowska",
+                    "site": "https://www.fuw.edu.pl/~konieczn/"
+                }
+            ]
+        },
+        {
+            "name": "Pracownicy",
+            "showName": true,
+            "empl": [
+                {
+                    "photo": "prof-dr-hab-Jan-Derezinski.jpg",
+                    "description": "DESC_DEREZINSKI",
+                    "name": "prof. dr hab. Jan Dereziński",
+                    "site": "https://www.fuw.edu.pl/~derezins/"
+                },
+                {
+                    "photo": "prof-dr-hab-Pawel-Urbanski.jpg",
+                    "description": "DESC_URBANSKI",
+                    "name": "prof. dr hab. Paweł Urbański",
+                    "site": "https://www.fuw.edu.pl/~urbanski/"
+                },
+                {
+                    "photo": "blank-man.jpg",
+                    "description": "DESC_SOLTAN",
+                    "name": "prof. dr hab. Piotr Sołtan",
+                    "site": "https://www.fuw.edu.pl/~psoltan/"
+                },
+                {
+                    "photo": "dr-hab-Jacek-Wojtkieicz.jpg",
+                    "description": "DESC_WOJTKIEWICZ",
+                    "name": "dr hab. Jacek Wojtkiewicz",
+                    "site": "https://www.fuw.edu.pl/~wjacek/"
+                },
+                {
+                    "photo": "blank-man.jpg",
+                    "description": "DESC_NIESZPORSKI",
+                    "name": "dr hab. Maciej Nieszporski",
+                    "site": "https://www.fuw.edu.pl/~maciejun/"
+                },
+                {
+                    "photo": "kasprzak.jpg",
+                    "description": "NO_DESC",
+                    "name": "dr hab. Paweł Kasprzak",
+                    "site": "https://www.fuw.edu.pl/~pkasp/main.php"
+                },
+                {
+                    "photo": "koscielecki.jpg",
+                    "description": "NO_DESC",
+                    "name": "dr Marcin Kościelecki",
+                    "site": "none"
+                },
+                {
+                    "photo": "dr-Marcin-Napiorkowski.jpg",
+                    "description": "DESC_NAPIORKOWSKI",
+                    "name": "dr Marcin Napiórkowski",
+                    "site": "none"
+                },
+                {
+                    "photo": "javier.jpg",
+                    "description": "DESC_DELUCAS",
+                    "name": "dr hab. Javier de Lucas Araujo",
+                    "site": "https://www.fuw.edu.pl/~delucas/"
+                },
+                {
+                    "photo": "dr-Giovanni-Moreno.jpg",
+                    "description": "DESC_MORENO",
+                    "name": "dr Giovanni Moreno",
+                    "site": "https://www.fuw.edu.pl/~gmoreno/"
+                },
+                {
+                    "photo": "dr-Rafal-R-Suszek.jpg",
+                    "description": "DESC_SUSZEK",
+                    "name": "dr Rafał R Suszek",
+                    "site": "none"
+                },
+                {
+                    "photo": "szycha.jpg",
+                    "description": "NO_DESC",
+                    "name": "dr Szymon Charzyński",
+                    "site": "https://www.fuw.edu.pl/~szycha/"
+                },
+                {
+                    "photo": "dr-Adam-Latosinski.jpg",
+                    "description": "DESC_LATOSINSKI",
+                    "name": "dr Adam Latosiński",
+                    "site": "none"
+                },
+                {
+                    "photo": "Aleksandra-Kuncewicz.jpg",
+                    "description": "NO_DESC",
+                    "name": "Aleksandra Kuncewicz",
+                    "site": "none"
+                }
+            ]
+        },
+        {
+            "name": "Doktoranci",
+            "showName": true,
+            "empl": [
+                {
+                    "photo": "blank-man.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Piotr Waluk",
+                    "site": "none"
+                },
+                {
+                    "photo": "Tomek_Smolka.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Tomasz Smołka",
+                    "site": "none"
+                },
+                {
+                    "photo": "Marian_Wiatr.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Marian Wiatr",
+                    "site": "none"
+                },
+                {
+                    "photo": "blank-man.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Bartosz Zawora",
+                    "site": "none"
+                },
+                {
+                    "photo": "wysocki.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Daniel Wysocki",
+                    "site": "none"
+                },
+                {
+                    "photo": "JuliaLange.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Julia Lange",
+                    "site": "none"
+                }
+            ]
+        },
+        {
+            "name": "Przyjaciele",
+            "showName": true,
+            "empl": [
+                {
+                    "photo": "bobienski.jpg",
+                    "description": "",
+                    "name": "Marcin Bobieński (MIM UW)",
+                    "site": "none"
+                },
+                {
+                    "photo": "czuchry.jpg",
+                    "description": "",
+                    "name": "Ewa Czuchry (NCBJ)",
+                    "site": "none"
+                },
+                {
+                    "photo": "gawedzki.jpg",
+                    "description": "",
+                    "name": "Krzysztof Gawędzki (ENS-Lyon, CNRS)",
+                    "site": "none"
+                },
+                {
+                    "photo": "pmh.jpg",
+                    "description": "",
+                    "name": "Piotr M. Hajac (IM PAN)",
+                    "site": "none"
+                },
+                {
+                    "photo": "kijowski.jpg",
+                    "description": "",
+                    "name": "Jerzy Kijowski (CFT PAN)",
+                    "site": "none"
+                },
+                {
+                    "photo": "lukasik.jpg",
+                    "description": "",
+                    "name": "Maciej Łukasik",
+                    "site": "none"
+                },
+                {
+                    "photo": "kazio.jpg",
+                    "description": "",
+                    "name": "Kazimierz Napiórkowski",
+                    "site": "none"
+                },
+                {
+                    "photo": "nurowski.jpg",
+                    "description": "",
+                    "name": "Paweł Nurowski (CFT PAN)",
+                    "site": "https://www.fuw.edu.pl/~nurowski/"
+                },
+                {
+                    "photo": "panasiuk.jpg",
+                    "description": "",
+                    "name": "Andriy Panasyuk (UWM)",
+                    "site": "none"
+                },
+                {
+                    "photo": "wpusz.jpg",
+                    "description": "",
+                    "name": "Wiesław Pusz",
+                    "site": "none"
+                },
+                {
+                    "photo": "podles.jpg",
+                    "description": "",
+                    "name": "Piotr Podleś",
+                    "site": "none"
+                },
+                {
+                    "photo": "torado.jpg",
+                    "description": "",
+                    "name": "Tomasz Radożycki (UKSW)",
+                    "site": "none"
+                },
+                {
+                    "photo": "siemssen.jpg",
+                    "description": "",
+                    "name": "Daniel Siemssen",
+                    "site": "none"
+                },
+                {
+                    "photo": "stachura.jpg",
+                    "description": "",
+                    "name": "Piotr Stachura (SGGW)",
+                    "site": "none"
+                },
+                {
+                    "photo": "blank-man.jpg",
+                    "description": "",
+                    "name": "Przemysław Majewski",
+                    "site": "none"
+                },
+                {
+                    "photo": "strasburger.jpg",
+                    "description": "",
+                    "name": "Aleksander Strasburger (SGGW)",
+                    "site": "none"
+                },
+                {
+                    "photo": "wlodek.jpg",
+                    "description": "",
+                    "name": "Włodzimierz M. Tulczyjew",
+                    "site": "none"
+                },
+                {
+                    "photo": "slw.jpg",
+                    "description": "",
+                    "name": "Stanisław L. Woronowicz",
+                    "site": "none"
+                },
+                {
+                    "photo": "zajac.jpg",
+                    "description": "NO_DESC",
+                    "name": "mgr Marcin Zając",
+                    "site": "none"
+                }
+            ]
+        }
+    ],
+    "students": [
+        {
+            "title": "Analiza I",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_ANALIZAI",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF12)"
+        },
+        {
+            "title": "Analiza II",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_ANALIZAII",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF21)"
+        },
+        {
+            "title": "Analiza III",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_ANALIZAIII",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-2AF10)"
+        },
+        {
+            "title": "Analiza IV",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_ANALIZAIV",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF21)"
+        },
+        {
+            "title": "Analiza I R",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_ANALIZAIR",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1100-1Ind01"
+        },
+        {
+            "title": "Analiza II R",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_ANALIZAIIR",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1Ind05)"
+        },
+        {
+            "title": "Analiza III R",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_ANALIZAIIIR",
+            "language": "LANG_PL",
+            "link": "none"
+        },
+        {
+            "title": "Algebra z geometrią I",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_ALGI",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF10)"
+        },
+        {
+            "title": "Algebra z geometrią II",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_ALGII",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF20)"
+        },
+        {
+            "title": "Algebra I R",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_ALGIR",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1Ind02)"
+        },
+        {
+            "title": "Algebra II R",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_ALGIIR",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1Ind06)"
+        },
+        {
+            "title": "Matematyka I",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_MATI",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF11)"
+        },
+        {
+            "title": "Matematyka II",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_MATII",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-1AF22)"
+        },
+        {
+            "title": "Matematyka III",
+            "category": "CATEGORY_1",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_MATIII",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1100-2AF11"
+        },      
+        {
+            "title": "Methods of Hilbert Spaces",
+            "category": "CATEGORY_2",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_HILBERT",
+            "language": "LANG_EN",
+            "link": "none"
+        },
+        {
+            "title": "Operator Theory",
+            "category": "CATEGORY_2",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_OPERATOR",
+            "language": "LANG_EN",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-3TO)"
+        },
+        {
+            "title": "Analiza Zespolona i Funkcje Specjalne",
+            "category": "CATEGORY_2",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_ZESP",
+            "language": "LANG_PL",
+            "link": "none"
+        },
+        {
+            "title": "Teoria Grup I",
+            "category": "CATEGORY_2",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_GROUPI",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-3`TG1)"
+        },
+        {
+            "title": "Teoria Grup II",
+            "category": "CATEGORY_2",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_GROUPII",
+            "language": "LANG_PL",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-2`TG2)"
+        },
+        {
+            "title": "Geometria Różniczkowa",
+            "category": "CATEGORY_2",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_GR",
+            "language": "LANG_PL",
+            "link": "none"
+        },
+        {
+            "title": "Unbounded operators",
+            "category": "CATEGORY_3",
+            "semmester": "SEMMESTER_S",
+            "description": "DESC_PSEUDO",
+            "language": "LANG_EN",
+            "link": "none"
+        },
+        {
+            "title": "Mathematics of Bose-Einstein Condensation",
+            "category": "CATEGORY_3",
+            "semmester": "SEMMESTER_S",
+            "description": "SESC_BOSE",
+            "language": "LANG_EN",
+            "link": "none"
+        },
+        {
+            "title": "Mathematical introduction to quantum field theory",
+            "category": "CATEGORY_3",
+            "semmester": "SEMMESTER_W",
+            "description": "DESC_QFT",
+            "language": "LANG_EN",
+            "link": "https://usosweb.fuw.edu.pl/kontroler.php?_action=actionx:katalog2/przedmioty/pokazPrzedmiot(prz_kod:1100-4`MIQFT)"
+        }
+    ],
+
+    "hallOfFame": [
+     {
+        "photo": "wlodek3.jpg",
+        "title": "NEKROLOG_TITLE",
+        "paragraphs": [
+           "NEKROLOG_1",
+           "NEKROLOG_2"
+        ],
+        "date": "16.12.2022 13:00"
+       },
+     {
+        "photo": "tqft-foto2.jpg",
+        "title": "PRIZE_TITLE_1",
+        "paragraphs": [
+           "PRIZE_TITLE_1_P_01",
+           "PRIZE_TITLE_1_P_02"
+        ],
+        "date": "23.01.2022 21:00"
+       },
+      {
+        "photo": "none",
+        "title": "NONCOMUTATIVE_SEMINAR_TITLE",
+        "paragraphs": [
+            "NONCOMUTATIVE_SEMINAR_P_01",
+            "NONCOMUTATIVE_SEMINAR_P_02",
+            "NONCOMUTATIVE_SEMINAR_P_03",
+            "NONCOMUTATIVE_SEMINAR_P_04"
+        ],
+        "date": "4.10.2021 16:00"
+      },
+      {
+        "photo": "Plakat.jpg",
+        "title": "NEW_SEMINAR_TITLE",
+        "paragraphs": [
+            "NEW_SEMINAR_P_01",
+            "NEW_SEMINAR_P_02"
+        ],
+        "date": "15.09.2020 12:55"
+      },
+      {
+        "photo": "okladka1.jpg",
+        "title": "NEW_BOOK_TITLE",
+        "paragraphs": [
+          "NEW_BOOK_P_01",
+          "NEW_BOOK_P_02"
+        ],
+        "date": "27.07.2020 15:06"
+      },
+      {
+        "photo": "javier.jpg",
+        "title": "JAVIER_AJDUK_TITLE",
+        "paragraphs": [
+          "JAVIER_AJDUK_P_01",
+          "JAVIER_AJDUK_P_02"
+        ],
+        "date": "27.07.2020 14:55"
+      },
+      {
+        "photo": "none",
+        "title": "MAGISTER_TITLE",
+        "paragraphs": [
+          "MAGISTER_P_01",
+          "MAGISTER_P_02"
+        ],
+        "date": "29.11.2019 12:00"
+      },
+      {
+        "photo": "none",
+        "title": "PRIZE_TITLE",
+        "paragraphs": [
+          "PRIZE_P_01",
+          "PRIZE_P_02"
+        ],
+        "date": "29.11.2018 12:00"
+      }
+    ]
+}

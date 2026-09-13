@@ -1,0 +1,24 @@
+.llogo {
+    height: 75px;
+    content: url(UW-logo.jpg);
+}
+
+.rlogo {
+    height: 75px;
+    content: url(WFUW-logo.jpg);
+}
+
+.clogo {
+    height: 100px;
+    content: url(KMMF-logo.jpg);
+}
+
+.logoHeader {
+    height: 10px;
+    vertical-align: middle;
+    text-align: center; 
+}
+
+.floatLeft { float: left; }
+
+.floatRight { float: right; }
